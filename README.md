@@ -1,2 +1,2 @@
 # Loterias
- Jogo de loterias similar ao lotifácil
+ Jogo de loterias similar ao lotofácil

@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.13.1",
-      "C:\\Users\\Renato Felix\\Documents\\Projetos em JavaScript\\Loterias"
+      "C:\\Users\\Renato Felix\\Documents\\GitHub\\Loterias"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.13.1",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.13.1.tgz",
   "_spec": "5.13.1",
-  "_where": "C:\\Users\\Renato Felix\\Documents\\Projetos em JavaScript\\Loterias",
+  "_where": "C:\\Users\\Renato Felix\\Documents\\GitHub\\Loterias",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
